@@ -320,6 +320,137 @@ p {
   
   border: .5px solid rgb(216, 216, 216);
  }
+
+ @media only screen and (max-width: 980px) {
+  #wrapper1{
+   max-width: 768;
+}
+
+#contain1 {
+  width: 100%;
+}
+#contain2 {
+  width: 100%;
+}
+#contain3 {
+  width: 100%;
+}
+#contain4 {
+  width: 100%;
+}
+#contain5 {
+  width: 100%;
+
+}
+#parent {
+  width: 100%;
+}
+
+.wrapper3 {
+  margin-bottom: 100px;
+
+}
+  
+}
+
+@media only screen and (max-width: 768px) {
+
+
+
+  #dog1 {
+    width: 100%;
+  }
+  #hang {
+    width: 100%;
+  }
+
+  #dog2 {
+    width: 100%;
+  }
+  #rpg {
+    width: 100%;
+  }
+  #dog3 {
+    width: 100%;
+  }
+  #trivia {
+    width: 100%;
+  }
+  #dog4 {
+    width: 100%;
+  }
+  #info {
+    width: 100%;
+  }
+  #dog5 {
+    width: 100%;
+  }
+  #paper {
+    width: 100%;
+  }
+  
+  .wrapper3 {
+    margin-bottom: 100px;
+  
+  }
+
+  #op {
+    text-align: center;
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 640px) {
+  .menu {
+    
+  }
+  #nom {
+    width: 100%;
+  }
+  #op {
+    text-align: center;
+    width: 100%;
+  }
+  #dog1 {
+    width: 100%;
+  }
+  #hang {
+    width: 100%;
+  }
+
+  #dog2 {
+    width: 100%;
+  }
+  #rpg {
+    width: 100%;
+  }
+  #dog3 {
+    width: 100%;
+  }
+  #trivia {
+    width: 100%;
+  }
+  #dog4 {
+    width: 100%;
+  }
+  #info {
+    width: 100%;
+  }
+  #dog5 {
+    width: 100%;
+  }
+  #paper {
+    width: 100%;
+  }
+
+  
+  .wrapper3 {
+    margin-bottom: 100px;
+  
+  }
+}
+
   
 
 
